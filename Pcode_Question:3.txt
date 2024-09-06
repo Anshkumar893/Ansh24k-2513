@@ -1,0 +1,13 @@
+Q: Create a small calculator which only does ‘+’ or ‘-‘Operations.
+
+Start 
+Take input for number i.e: N1,N2
+Take input for operator
+If operator == "+"
+  then print N1 + N2
+ElseIf operator == "-"
+  then print N1 - N2
+Else
+  print "Invalid operator"
+
+End
