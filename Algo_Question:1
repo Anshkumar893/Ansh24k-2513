@@ -1,3 +1,5 @@
+Q: Implement an algorithm for determining if a "Nth" is a divisor of "n" number. If so, determine if it's even or odd.
+
 1. Start
 2. Take input for number.
 3. Take input for divisor.
