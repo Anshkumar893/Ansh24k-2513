@@ -1,0 +1,8 @@
+Q: Take three variables as input and add them without using the + operator.
+
+Start 
+Take input for Three numbers i.e: N1,N2,N3
+Set result as -N1-N2-N3
+Now, set result as -(result)
+print result
+End
