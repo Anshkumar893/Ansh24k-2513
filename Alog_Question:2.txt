@@ -1,0 +1,31 @@
+Q: Implement an algorithm where the user enter a number, and an appropriate month is displayed.
+
+1. Start
+2. Take a input for number
+3. If number == 1
+    then print "Jan"
+   ElseIf number == 2
+    then print "Feb"
+   ElseIf number == 3
+    then print "Mar"
+   ElseIf number == 4 
+    then print "Apr"
+   ElseIf number == 5 
+    then print "May"
+   ElseIf number == 6 
+    then print "Jun"
+   ElseIf number == 7 
+    then print "July"
+   ElseIf number == 8 
+    then print "Aug"
+   ElseIf number == 9
+    then print "Sep"
+   ElseIf number == 10 
+    then print "Oct"
+   ElseIf number == 11 
+    then print "Nov"
+   ElseIf number == 12
+    them print "Dec"
+   Else
+    print "Invalid number"
+4. End
