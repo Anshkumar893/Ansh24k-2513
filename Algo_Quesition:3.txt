@@ -1,0 +1,20 @@
+Q: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%).
+
+1. Control Module
+2. Enter N1
+3. Enter N2
+4. Enter operator
+5. If operator == "+"
+    then print N1 + N2
+   ElseIf operator == "-"
+    then print N1 - N2
+   ElseIf operator == "*"
+    then print N1 * N2
+   ElseIf operator == "/"
+    then print N1 / N2
+   ElseIf operator == "%"
+    then print N1 % N2
+   Else 
+    print "Invalid Operator"
+
+6. End
